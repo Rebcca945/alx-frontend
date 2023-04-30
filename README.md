@@ -1,1 +1,1 @@
-ALX frontiend
+ALX frontend
